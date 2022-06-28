@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <suite name="Regression">
-	<test name="Login">
+	<test name="Login new">
 		<classes>
 			<class name="TestNGFirstClass" />
 			<class name="TestPackage.TestNGDefaultClass" />
